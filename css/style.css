@@ -1,0 +1,45 @@
+/* NAVIGATION */
+.nav-item {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bold;
+  color: #182FAA;
+}
+.nav-link :active {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bold;
+  color: #182FAA;
+}
+.nav {
+    background-color: #E7E9F0;
+}
+.nav nav-tabs {
+    background-color: #E7E9F0;
+}
+
+/* FONTS */
+h2 {
+    font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
+  color: #182FAA;
+}
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bold;
+  color: #182FAA;
+}
+h4 {
+    font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
+  color: #182FAA;
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bold;
+  color: #182FAA;
+}
+/* JUMBOTRON */
+.container { 
+    background-color: #E7E9F0;
+}
