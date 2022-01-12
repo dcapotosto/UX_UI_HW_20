@@ -1,3 +1,8 @@
+/* BODY BACKGROUND */
+body {
+    background-color: #E7E9F0;
+}
+
 /* NAVIGATION */
 .nav-item {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -17,8 +22,13 @@
 .nav nav-tabs {
     background-color: #E7E9F0;
 }
+.dropdown-item {
+    font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
+  color: #182FAA;
+  font-style: normal;
+}
 
-/* FONTS */
+/* HEADLINES */
 h2 {
     font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
   color: #182FAA;
@@ -42,4 +52,56 @@ p {
 /* JUMBOTRON */
 .container { 
     background-color: #E7E9F0;
+}
+.lead {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bold;
+  color: #182FAA;
+}
+.hero {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/* OVERVIEW BODY */
+.card-body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bold;
+  color: #182FAA;
+  background-color: #E7E9F0;
+}
+
+/* PHASES */
+.row {
+    background-color: #E7E9F0;
+}
+.col-4 {
+    font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
+  color: #182FAA;
+  background-color: #E7E9F0;
+}
+.col-8 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bold;
+  color: #182FAA;
+}
+
+/* ITERATIONS */
+.card-group {
+    background-color: #E7E9F0;
+}
+.card-title {
+    font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
+  color: #182FAA;
+}
+.card-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: bold;
+  color: #182FAA;
 }
